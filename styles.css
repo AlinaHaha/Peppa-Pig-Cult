@@ -1,0 +1,12 @@
+button {
+  margin: 15px;
+  padding: 12px 18px;
+  border: 1px solid #4A37E7;
+  color: #fff;
+  font-size: 18px;
+  border-radius: 4px;
+}
+
+img{
+  align-items: center;
+}
