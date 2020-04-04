@@ -1,0 +1,35 @@
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+
+  <body>
+  <h1><center>Bonjour mon ami!</center></h1>
+  <h2><center> Would you like to join the Peppa Pig cult?</center></h2>
+  <h3><center>Of course you want to!!</center></h3>
+  <h2><center>Put your name</center></h2>
+  <h1><center>WE INSIST</center></h1>
+
+
+  <p class="message"><center>remember: peppa pig is always watching you... she is seven foot one, so don't try to swiffer swipe away with insider information</center></p>
+   <input class="name-input" type= "text"  value="your name">
+ <input class="submit" type= "submit"  value="submit">
+ <div class="peppa">
+   <section: "images">
+   <img src="https://screenrights-fe.s3-ap-southeast-2.amazonaws.com/videos/24299/keyframes/master.png">
+ </section>
+   <style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+</div>
+ <!-- <input type= "image" src= "https://junkee.com/wp-content/uploads/2018/04/peppapig.jpg"  class= message> -->
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="./index.js"></script>
+</body>
+</html>
